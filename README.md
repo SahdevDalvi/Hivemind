@@ -241,4 +241,4 @@ This project is intended for educational and experimental use.
 
 ### Assets
 - House Prefabs: Mega Fantasy Props Pack by karboosx.
-  Source: [[Unity Asset Store / Sketchfab / itch.io link]](https://assetstore.unity.com/packages/3d/environments/fantasy/mega-fantasy-props-pack-87811)
+  Source: [[Unity Asset Store link]](https://assetstore.unity.com/packages/3d/environments/fantasy/mega-fantasy-props-pack-87811)
